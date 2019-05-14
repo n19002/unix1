@@ -1,1 +1,1 @@
-rm -r dir
+rm -r dir1
