@@ -1,1 +1,1 @@
-which tei.sh
+which unix1.sh
