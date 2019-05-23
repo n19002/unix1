@@ -1,2 +1,2 @@
-find /etc -name  network.conf 2> /dev/null
+find /etc/ -type f 2> /dev/null |grep '/network.conf' 
 
