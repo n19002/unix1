@@ -1,1 +1,1 @@
-cut -d : -f 7 /etc/passwd | echo $USER
+find /var -type f | xargs du | -exec du \{\}\; | sort -nr | head -n 5
